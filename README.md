@@ -1,4 +1,4 @@
-# The Hexagons
+# Hexagons
 
 <img align="left" src="media/flower_favicon_full.PNG" height="100"></img>
 This repository contains the data used to train and evaluate the instruction-to-execution task derived from the Hexagons dataset.
@@ -11,9 +11,9 @@ and [website](https://onlplab.github.io/Hexagons/).
 ## Dataset
 
 ### Download
-* [Train](https://onlplab.github.io/Hexagons/tree/main/data/train.jsonl.gz)
-* [Dev](https://onlplab.github.io/Hexagons/tree/main/data/dev.jsonl.gz)
-* [Test](https://onlplab.github.io/Hexagons/tree/main/data/test.jsonl.gz)
+* [Train](hhttps://github.com/onlplab/Hexagons/blob/main/data/train.jsonl)
+* [Dev](https://github.com/onlplab/Hexagons/blob/main/data/dev.jsonl)
+* [Test](https://github.com/onlplab/Hexagons/blob/main/data/test.jsonl)
 
 
 ### Dataset Description
@@ -108,7 +108,7 @@ in our [website](https://onlplab.github.io/Hexagons/) and to our [paper](https:/
 
 
 ## Changelog
-- `XX/08/2022` The Hexagons dataset is released:  TACL paper + dataset + website.
+- `25/08/2022` The Hexagons dataset is released:  TACL paper + dataset + website.
 - `27/06/2021` First arXiv version of the paper is released.
 
  
