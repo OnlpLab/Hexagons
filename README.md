@@ -11,7 +11,7 @@ and [website](https://onlplab.github.io/Hexagons/).
 ## Dataset
 
 ### Download
-* [Train](hhttps://github.com/onlplab/Hexagons/blob/main/data/train.jsonl)
+* [Train](https://github.com/onlplab/Hexagons/blob/main/data/train.jsonl)
 * [Dev](https://github.com/onlplab/Hexagons/blob/main/data/dev.jsonl)
 * [Test](https://github.com/onlplab/Hexagons/blob/main/data/test.jsonl)
 
