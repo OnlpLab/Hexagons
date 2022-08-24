@@ -10,7 +10,7 @@ instructions on the Hexagons board. As baselines, we propose two neural modeling
 to human performance, and that models’ performance is inversely correlated with the
 level of abstraction, showing less satisfying performance on higher levels of abstraction.
 These findings are consistent across models and setups, confirming that abstraction is a
-challenging phenomenon NLP systems. 
+challenging phenomenon in NLP systems. 
 
 Please refer to our [paper](#paper) for more details.
 
@@ -39,7 +39,7 @@ Royi Lachmy, Valentina Pyatkin, Avshalom Manevich, Reut Tsarfaty
   title={Draw me a Flower: {P}rocessing and Grounding Abstraction in Natural Language},
   author={Lachmy, Royi and Pyatkin, Valentina and Manevich, Avshalom and Tsarfaty, Reut},  
   year={2022},
-  Eprint = {Accepted to Transaction of ACL}  
+  journal = {Accepted to Transaction of ACL}  
 }
 
 ```
