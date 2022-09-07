@@ -15,7 +15,7 @@ challenging phenomenon in NLP systems.
 Please refer to our [paper](#paper) for more details.
 
 We invite you to join us in the endeavor to improve models’ abstraction capabilities! <br/>
-Explore the Hexagons [App](/Hexagons/app) and [Game](/Hexagons/game), get yourself familiar with the dataset through the [Image Gallery](/Hexagons/gallery) and the [dataset visualization](/Hexagons/visual), explore our [baseline models](models) capabilities in the [demo](/Hexagons/demo), and download the [dataset](/Hexagons/dataset) to devise your own cutting-edge model! 
+Explore the Hexagons [App](/Hexagons/app) and [Game](/Hexagons/game), get yourself familiar with the dataset through the [Image Gallery](/Hexagons/gallery) and the [Dataset Visualization](/Hexagons/visual), explore our [Baseline Models](models) capabilities in the [Demo](/Hexagons/demo), and download the [Dataset](/Hexagons/dataset) to devise your own cutting-edge model! 
 
 The project is run by the [NLPROg-CT team](#team), directed by Prof. [Reut Tsarfaty](https://nlp.biu.ac.il/~rtsarfaty/) at  [Bar-Ilan University](https://biu-nlp.github.io/)
 and is endorsed by [Allen Institute for AI](https://allenai.org/).  
