@@ -30,7 +30,7 @@ and is endorsed by [Allen Institute for AI](https://allenai.org/).
 
 ## **Paper**
 
-[**Draw me a Flower: Processing and Grounding Abstraction in Natural Language**](https://arxiv.org/abs/2106.14321)
+[**Draw me a Flower: Processing and Grounding Abstraction in Natural Language**](https://github.com/OnlpLab/Hexagons/blob/main/publications/Hexagons.pdf)
 Royi Lachmy, Valentina Pyatkin, Avshalom Manevich, Reut Tsarfaty
 *Accepted to Transaction of ACL*, 2022.
 
